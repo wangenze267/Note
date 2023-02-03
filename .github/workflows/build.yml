@@ -1,0 +1,37 @@
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 获取源码
+      - name: 迁出代码
+        # 使用action库  actions/checkout获取源码
+        uses: actions/checkout@v2
+
+      # 安装Node16
+      - name: 安装node.js
+        # 使用action库  actions/setup-node安装node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16.13.2
+
+      # # 安装依赖
+      # - name: 安装依赖
+      #   run: npm install
+
+      # 打包
+      - name: 打包
+        run: |
+          npm i 
+          npm run build
+      # 推送
+      - name: 推送
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          ACCESS_TOKEN: ${{ secrets.TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: docs/.vitepress/dist

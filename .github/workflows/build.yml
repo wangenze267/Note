@@ -27,7 +27,7 @@ jobs:
       - name: 打包
         run: |
           npm i 
-          npm run build
+          npm run docs:build
       # 推送
       - name: 推送
         uses: JamesIves/github-pages-deploy-action@releases/v3

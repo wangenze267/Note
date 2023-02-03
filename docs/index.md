@@ -14,7 +14,7 @@ hero:
       link: /fe_advance/
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/wangenze267/Note
 features:
 - icon: 🔔
   title: 前端基础

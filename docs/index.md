@@ -17,8 +17,8 @@ hero:
       link: https://github.com/wangenze267/Note
 features:
 - icon: 🔔
-  title: 前端基础
-  details: 即使你聪明绝顶，也要从头学起...
+  title: 面试基础
+  details: 终归有用到它的一天...
 - icon: 💡
   title: 前端进阶
   details: 前端人，不止于前端...

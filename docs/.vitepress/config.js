@@ -1,7 +1,7 @@
 const { getChildren } = require("./utils/autoSidebar");
 const getDirectory = (ele) => getChildren("./docs", ele);
 const nav = [
-  { text: "基础知识", link: "/basics/", activeMatch: "/basics/" },
+  { text: "面试基础", link: "/basics/", activeMatch: "/basics/" },
   { text: "前端进阶", link: "/fe_advance/", activeMatch: "/fe_advance/" },
   { text: "前端工程化", link: "/fe_engineer/", activeMatch: "/fe_engineer/" },
   // { text: "技术内功", link: "/fe_code/" , activeMatch: '/fe_code/'},

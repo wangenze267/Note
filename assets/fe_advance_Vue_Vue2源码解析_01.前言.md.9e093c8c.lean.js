@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.f1bf49fb.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fe_advance/Vue/Vue2源码解析/01.前言.md"}'),r={name:"fe_advance/Vue/Vue2源码解析/01.前言.md"};function c(n,o,_,s,d,p){return a(),t("div")}const m=e(r,[["render",c]]);export{i as __pageData,m as default};

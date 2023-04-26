@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: Ned
-  text: 前端学习手册.
+  name: Study Note
+  text: 学习手册...
   tagline: Input & Think & Output...
   image:
-    src: /Ned.jpg
-    alt: Ned
+    src: /note.png
+    alt: note
   actions:
     - theme: brand
       text: Get Started

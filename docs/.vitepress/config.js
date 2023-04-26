@@ -26,15 +26,17 @@ nav.forEach(({ text, link }) => {
 });
 
 module.exports = {
-  title: "前端学习手册",
-  description: "Ned的前端学习手册",
+  title: "Study Note",
+  description: "Ned的学习手册",
   head: [
-    ["link", { rel: "icon", type: "image/x-icon", href: "/favicon.ico" }], // 增加一个自定义的 favicon(网页标签的图标)
+    ["link", { rel: "icon", type: "image/x-icon", href: "/note.png" }], // 增加一个自定义的 favicon(网页标签的图标)
   ],
   markdown: {
     lineNumbers: true, // 代码块显示行号
   },
   themeConfig: {
+    logo: './note.png',
+    siteTitle: 'Study Note',
     sidebarDepth: 2, // e'b将同时提取markdown中h2 和 h3 标题，显示在侧边栏上。
     lastUpdated: "Last Updated", // 文档更新时间：每个文件git最后提交的时间
     sidebar,

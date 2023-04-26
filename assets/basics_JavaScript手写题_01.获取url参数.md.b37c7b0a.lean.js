@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as l}from"./app.5b2fb50e.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"basics/JavaScript手写题/01.获取url参数.md"}'),p={name:"basics/JavaScript手写题/01.获取url参数.md"},o=l("",2),e=[o];function r(t,c,F,y,D,i){return a(),n("div",null,e)}const b=s(p,[["render",r]]);export{A as __pageData,b as default};

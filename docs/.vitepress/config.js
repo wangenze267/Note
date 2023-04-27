@@ -6,6 +6,7 @@ const nav = [
   { text: "前端工程化", link: "/fe_engineer/", activeMatch: "/fe_engineer/" },
   // { text: "技术内功", link: "/fe_code/" , activeMatch: '/fe_code/'},
   { text: "代码人生", link: "/code_life/", activeMatch: "/code_life/" },
+  { text: "商业创新", link: "/business_innovation/", activeMatch: "/business_innovation/" },
   {
     text: "关注我",
     items: [

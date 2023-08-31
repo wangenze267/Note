@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as _}from"./app.be91dbb2.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fe_engineer/前端之微前端相关/01.微前端使用场景.md"}'),r={name:"fe_engineer/前端之微前端相关/01.微前端使用场景.md"};function a(n,o,s,c,i,p){return _(),t("div")}const m=e(r,[["render",a]]);export{f as __pageData,m as default};

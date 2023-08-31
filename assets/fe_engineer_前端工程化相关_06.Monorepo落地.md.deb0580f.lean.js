@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t}from"./app.1e966a8f.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fe_engineer/前端工程化相关/06.Monorepo落地.md"}'),r={name:"fe_engineer/前端工程化相关/06.Monorepo落地.md"};function n(a,_,s,c,p,i){return t(),o("div")}const m=e(r,[["render",n]]);export{f as __pageData,m as default};

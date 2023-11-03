@@ -15,6 +15,10 @@ const nav = [
         text: "掘金",
         link: "https://juejin.cn/user/105972016875911/posts",
       },
+      {
+        text: "公众号",
+        link: "https://github.com/wangenze267/Note/blob/master/docs/public/%E5%85%AC%E4%BC%97%E5%8F%B7.png"
+      }
     ],
   },
 ];

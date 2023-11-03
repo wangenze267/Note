@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./app.ba94a6f0.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"basics/Vue核心概念/04.Vue组件中的data为什么是个函数.md"}'),_={name:"basics/Vue核心概念/04.Vue组件中的data为什么是个函数.md"};function s(r,c,o,n,d,i){return t(),a("div")}const m=e(_,[["render",s]]);export{u as __pageData,m as default};

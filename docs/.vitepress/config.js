@@ -10,6 +10,7 @@ const nav = [
   {
     text: "关注我",
     items: [
+      { text: "主页", link: "https://www.wangez.site" },
       { text: "GitHub", link: "https://github.com/wangenze267" },
       {
         text: "掘金",

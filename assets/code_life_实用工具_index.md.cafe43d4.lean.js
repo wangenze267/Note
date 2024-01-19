@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.d0f3596f.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"code_life/实用工具/index.md"}'),o={name:"code_life/实用工具/index.md"};function n(r,c,s,d,i,_){return a(),t("div")}const l=e(o,[["render",n]]);export{f as __pageData,l as default};

@@ -1,1 +1,0 @@
-import{_,c as e,o as t,a as p}from"./app.d7fe56e4.js";const l=JSON.parse('{"title":"关于开发流程不规范，我想说","description":"","frontmatter":{},"headers":[],"relativePath":"code_life/泽言泽语/02.关于开发流程不规范，我想说.md"}'),a={name:"code_life/泽言泽语/02.关于开发流程不规范，我想说.md"},o=p("",9),r=[o];function c(s,n,d,i,m,f){return t(),e("div",null,r)}const u=_(a,[["render",c]]);export{l as __pageData,u as default};

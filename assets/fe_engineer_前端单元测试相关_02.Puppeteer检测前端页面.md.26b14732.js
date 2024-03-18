@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app.2bfad51d.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fe_engineer/前端单元测试相关/02.Puppeteer检测前端页面.md"}'),_={name:"fe_engineer/前端单元测试相关/02.Puppeteer检测前端页面.md"};function a(n,o,p,s,c,i){return r(),t("div")}const m=e(_,[["render",a]]);export{f as __pageData,m as default};

@@ -46,3 +46,13 @@
 > 肖4/肖8 的习题讲解看这个人：https://space.bilibili.com/404761607
 
 > 速成课/带背资料看这个：https://space.bilibili.com/16671656
+
+## 英语习题集
+
+- 近20年真题  （做完了可以去买个英二的刷阅读
+
+> 完形的另一种思维： https://www.bilibili.com/video/BV1xP411u7eR/?spm_id_from=333.1387.collection.video_card.click
+
+> 翻译/七选五/排序思维（选听）：https://space.bilibili.com/439099735/lists/912679?type=season
+
+> 阅读的方法论看自己，词汇量高选唐迟，不高选斌斌（两个都听一下，选自己能懂的）
